@@ -1,0 +1,32 @@
+/* ********************TAG SELECTORS******************** */
+body {
+  background-color: #EAF6F6;
+  font-family: cursive;
+}
+
+hr {
+  background-color: #EAF6F6;
+  border-style: none;
+  border-top-style: dotted;
+  /* height: 2px; */
+  border-color: #ffaaa7;
+  border-width: 5px;
+  width: 4%;
+}
+
+img {
+  height: 150px;
+  width: 130px;
+}
+
+h1{
+  color: #66BFBF;
+  font-size: 36px;
+  font-family: fantasy;
+}
+
+h3{
+  color: #66BFBF;
+  font-family: cursive;
+  font-size: 28px;
+}
